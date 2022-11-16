@@ -1,0 +1,14 @@
+D:\softuni\SoftUniCourses\csharp-oop\14.UnitTesting\RPGTesting\bin\Debug\netcoreapp3.1\RPGTesting.exe
+D:\softuni\SoftUniCourses\csharp-oop\14.UnitTesting\RPGTesting\bin\Debug\netcoreapp3.1\RPGTesting.deps.json
+D:\softuni\SoftUniCourses\csharp-oop\14.UnitTesting\RPGTesting\bin\Debug\netcoreapp3.1\RPGTesting.runtimeconfig.json
+D:\softuni\SoftUniCourses\csharp-oop\14.UnitTesting\RPGTesting\bin\Debug\netcoreapp3.1\RPGTesting.runtimeconfig.dev.json
+D:\softuni\SoftUniCourses\csharp-oop\14.UnitTesting\RPGTesting\bin\Debug\netcoreapp3.1\RPGTesting.dll
+D:\softuni\SoftUniCourses\csharp-oop\14.UnitTesting\RPGTesting\bin\Debug\netcoreapp3.1\RPGTesting.pdb
+D:\softuni\SoftUniCourses\csharp-oop\14.UnitTesting\RPGTesting\obj\Debug\netcoreapp3.1\RPGTesting.csproj.AssemblyReference.cache
+D:\softuni\SoftUniCourses\csharp-oop\14.UnitTesting\RPGTesting\obj\Debug\netcoreapp3.1\RPGTesting.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\SoftUniCourses\csharp-oop\14.UnitTesting\RPGTesting\obj\Debug\netcoreapp3.1\RPGTesting.AssemblyInfoInputs.cache
+D:\softuni\SoftUniCourses\csharp-oop\14.UnitTesting\RPGTesting\obj\Debug\netcoreapp3.1\RPGTesting.AssemblyInfo.cs
+D:\softuni\SoftUniCourses\csharp-oop\14.UnitTesting\RPGTesting\obj\Debug\netcoreapp3.1\RPGTesting.csproj.CoreCompileInputs.cache
+D:\softuni\SoftUniCourses\csharp-oop\14.UnitTesting\RPGTesting\obj\Debug\netcoreapp3.1\RPGTesting.dll
+D:\softuni\SoftUniCourses\csharp-oop\14.UnitTesting\RPGTesting\obj\Debug\netcoreapp3.1\RPGTesting.pdb
+D:\softuni\SoftUniCourses\csharp-oop\14.UnitTesting\RPGTesting\obj\Debug\netcoreapp3.1\RPGTesting.genruntimeconfig.cache

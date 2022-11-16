@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oH+IMfYNGrgR8lSgwbqj/oaXVB/0blwhlofafEIFJPtsqCTw3CjgFtcc+MKxnr6i7xwmZehhZzoibyq5ZibqwQ==",
+  "success": true,
+  "projectFilePath": "D:\\softuni\\SoftUniCourses\\csharp-oop\\14.UnitTesting\\RPGTesting\\RPGTesting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Deivid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512",
+    "C:\\Users\\Deivid\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Deivid\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Deivid\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
